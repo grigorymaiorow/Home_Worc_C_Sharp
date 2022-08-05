@@ -1,0 +1,15 @@
+/Users/grigorij/Home_work C#/Lesson1/Example8/bin/Debug/net6.0/Example8
+/Users/grigorij/Home_work C#/Lesson1/Example8/bin/Debug/net6.0/Example8.deps.json
+/Users/grigorij/Home_work C#/Lesson1/Example8/bin/Debug/net6.0/Example8.runtimeconfig.json
+/Users/grigorij/Home_work C#/Lesson1/Example8/bin/Debug/net6.0/Example8.dll
+/Users/grigorij/Home_work C#/Lesson1/Example8/bin/Debug/net6.0/Example8.pdb
+/Users/grigorij/Home_work C#/Lesson1/Example8/obj/Debug/net6.0/Example8.csproj.AssemblyReference.cache
+/Users/grigorij/Home_work C#/Lesson1/Example8/obj/Debug/net6.0/Example8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigorij/Home_work C#/Lesson1/Example8/obj/Debug/net6.0/Example8.AssemblyInfoInputs.cache
+/Users/grigorij/Home_work C#/Lesson1/Example8/obj/Debug/net6.0/Example8.AssemblyInfo.cs
+/Users/grigorij/Home_work C#/Lesson1/Example8/obj/Debug/net6.0/Example8.csproj.CoreCompileInputs.cache
+/Users/grigorij/Home_work C#/Lesson1/Example8/obj/Debug/net6.0/Example8.dll
+/Users/grigorij/Home_work C#/Lesson1/Example8/obj/Debug/net6.0/refint/Example8.dll
+/Users/grigorij/Home_work C#/Lesson1/Example8/obj/Debug/net6.0/Example8.pdb
+/Users/grigorij/Home_work C#/Lesson1/Example8/obj/Debug/net6.0/Example8.genruntimeconfig.cache
+/Users/grigorij/Home_work C#/Lesson1/Example8/obj/Debug/net6.0/ref/Example8.dll
