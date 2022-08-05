@@ -1,0 +1,15 @@
+/Users/grigorij/Home_work C#/Lesson8/Example56/bin/Debug/net6.0/Example56
+/Users/grigorij/Home_work C#/Lesson8/Example56/bin/Debug/net6.0/Example56.deps.json
+/Users/grigorij/Home_work C#/Lesson8/Example56/bin/Debug/net6.0/Example56.runtimeconfig.json
+/Users/grigorij/Home_work C#/Lesson8/Example56/bin/Debug/net6.0/Example56.dll
+/Users/grigorij/Home_work C#/Lesson8/Example56/bin/Debug/net6.0/Example56.pdb
+/Users/grigorij/Home_work C#/Lesson8/Example56/obj/Debug/net6.0/Example56.csproj.AssemblyReference.cache
+/Users/grigorij/Home_work C#/Lesson8/Example56/obj/Debug/net6.0/Example56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigorij/Home_work C#/Lesson8/Example56/obj/Debug/net6.0/Example56.AssemblyInfoInputs.cache
+/Users/grigorij/Home_work C#/Lesson8/Example56/obj/Debug/net6.0/Example56.AssemblyInfo.cs
+/Users/grigorij/Home_work C#/Lesson8/Example56/obj/Debug/net6.0/Example56.csproj.CoreCompileInputs.cache
+/Users/grigorij/Home_work C#/Lesson8/Example56/obj/Debug/net6.0/Example56.dll
+/Users/grigorij/Home_work C#/Lesson8/Example56/obj/Debug/net6.0/refint/Example56.dll
+/Users/grigorij/Home_work C#/Lesson8/Example56/obj/Debug/net6.0/Example56.pdb
+/Users/grigorij/Home_work C#/Lesson8/Example56/obj/Debug/net6.0/Example56.genruntimeconfig.cache
+/Users/grigorij/Home_work C#/Lesson8/Example56/obj/Debug/net6.0/ref/Example56.dll
